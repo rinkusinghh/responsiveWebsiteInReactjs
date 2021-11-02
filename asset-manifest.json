@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/responsiveWebsiteInReactjs/static/css/main.45866c0c.chunk.css",
+    "main.js": "/responsiveWebsiteInReactjs/static/js/main.125d98c5.chunk.js",
+    "main.js.map": "/responsiveWebsiteInReactjs/static/js/main.125d98c5.chunk.js.map",
+    "runtime-main.js": "/responsiveWebsiteInReactjs/static/js/runtime-main.3158f8a4.js",
+    "runtime-main.js.map": "/responsiveWebsiteInReactjs/static/js/runtime-main.3158f8a4.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/responsiveWebsiteInReactjs/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.5e39eb43.chunk.js": "/responsiveWebsiteInReactjs/static/js/2.5e39eb43.chunk.js",
+    "static/js/2.5e39eb43.chunk.js.map": "/responsiveWebsiteInReactjs/static/js/2.5e39eb43.chunk.js.map",
+    "static/js/3.363b394f.chunk.js": "/responsiveWebsiteInReactjs/static/js/3.363b394f.chunk.js",
+    "static/js/3.363b394f.chunk.js.map": "/responsiveWebsiteInReactjs/static/js/3.363b394f.chunk.js.map",
+    "index.html": "/responsiveWebsiteInReactjs/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/responsiveWebsiteInReactjs/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.45866c0c.chunk.css.map": "/responsiveWebsiteInReactjs/static/css/main.45866c0c.chunk.css.map",
+    "static/js/2.5e39eb43.chunk.js.LICENSE.txt": "/responsiveWebsiteInReactjs/static/js/2.5e39eb43.chunk.js.LICENSE.txt",
+    "static/media/business.1f7f8b7e.jpg": "/responsiveWebsiteInReactjs/static/media/business.1f7f8b7e.jpg",
+    "static/media/coder.e1ef67e9.jpg": "/responsiveWebsiteInReactjs/static/media/coder.e1ef67e9.jpg",
+    "static/media/coding.2041d1ed.jpg": "/responsiveWebsiteInReactjs/static/media/coding.2041d1ed.jpg",
+    "static/media/office.062eab38.jpg": "/responsiveWebsiteInReactjs/static/media/office.062eab38.jpg",
+    "static/media/programmer.6affb54a.png": "/responsiveWebsiteInReactjs/static/media/programmer.6affb54a.png",
+    "static/media/programming.dd615a94.jpg": "/responsiveWebsiteInReactjs/static/media/programming.dd615a94.jpg",
+    "static/media/webDevice.de975484.png": "/responsiveWebsiteInReactjs/static/media/webDevice.de975484.png",
+    "static/media/work.3f3e7e4d.jpg": "/responsiveWebsiteInReactjs/static/media/work.3f3e7e4d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3158f8a4.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.5e39eb43.chunk.js",
+    "static/css/main.45866c0c.chunk.css",
+    "static/js/main.125d98c5.chunk.js"
+  ]
+}
